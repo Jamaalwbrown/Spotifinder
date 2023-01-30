@@ -1,6 +1,7 @@
 
 import './App.css';
-import { SearchBar } from './SearchBar.js'
+import { SearchBar } from './SearchBar/SearchBar.js'
+import { SearchResult } from './SearchResult/SearchResult.js'
 
 function App() {
   return (
